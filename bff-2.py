@@ -1,3 +1,5 @@
+import os,sys
+
 print("\n • Sorry, script telah di hapus. ")
 print(" • Tunggu Update terbaru, tanggal 13 Oktober 2021.")
 print(" • Untuk update bff-2 pada tangga 13 Oktober silahkan ketik :\n ")
